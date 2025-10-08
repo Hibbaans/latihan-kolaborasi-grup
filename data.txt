@@ -1,2 +1,3 @@
 Daftar kontribusi:
+- [Latihan Kolaborasi Promnet] Anggota 1 menambahkan satu baris teks disini.
 - [Promnet selalu di hati]Anggota 2 menambahkan satu baris teks disini.

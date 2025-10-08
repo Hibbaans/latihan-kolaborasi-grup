@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Nama: Muhammad Hibbaan Shidiq
-- Nama Anggota 2
+- Nama: Kristian Jonathan Wonmaly
